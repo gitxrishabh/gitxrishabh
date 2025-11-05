@@ -62,4 +62,4 @@ Machine learning classification project for medical diagnosis.
 
 ---
 
-❤ **By Rishabh Prajapati**
+❤ **By Rishabh**
