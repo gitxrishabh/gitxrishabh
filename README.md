@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Rishabh  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00FFFF&center=true&vCenter=true&width=1000&lines=Hi+I'm+Rishabh!;Data+Analyst+📊+%7C+Business+Intelligence+Specialist+📈+%7C+SQL+%26+Power+BI+Expert;Turning+Data+into+Insights+and+Insights+into+Action!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00FFFF&center=true&vCenter=true&width=1000&lines=Data+Analyst+📊+%7C+Business+Intelligence+Specialist+📈+%7C+SQL+%26+Power+BI+Expert;Turning+Data+into+Insights+and+Insights+into+Action!)](https://git.io/typing-svg)
 
 ---
 
