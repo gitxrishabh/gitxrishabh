@@ -1,28 +1,75 @@
 # 👋 Hi, I'm Rishabh
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25\&duration=4000\&color=00FFFF\&center=true\&vCenter=true\&width=1000\&lines=Data+Analyst+📊+%7C+Business+Intelligence+Professional+📈;Power+BI+%7C+SQL+%7C+Excel+%7C+Python;Turning+Business+Data+into+Actionable+Insights)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25\&duration=4000\&color=00FFFF\&center=true\&vCenter=true\&width=1000\&lines=Data+Analyst+📊+%7C+Business+Intelligence+Professional+📈;SQL+%7C+Power+BI+%7C+Excel+%7C+Python;Transforming+Data+into+Business+Decisions)](https://git.io/typing-svg)
 
 ---
 
 ## 🚀 About Me
 
-I'm a Data Analyst with hands-on experience in Business Intelligence, Sales Analytics, Inventory Analytics, Quality Monitoring, and Manufacturing Cost Analysis.
+I'm a Data Analyst with hands-on experience in Business Intelligence, SQL Analytics, Sales Analytics, Inventory Management, Quality Monitoring, and Manufacturing Cost Analysis.
 
-I specialize in transforming raw business data into actionable insights through interactive dashboards, KPI reporting, and data storytelling. My goal is to help organizations make faster, smarter, and data-driven decisions.
+I specialize in transforming raw business data into actionable insights through SQL, Power BI, Excel, and Python. My work focuses on helping stakeholders make informed decisions by building scalable data models, automated reporting solutions, and executive dashboards.
 
-💼 Experienced in developing executive-level dashboards and automated reporting solutions using Power BI, SQL, Excel, DAX, Power Query, and Python.
+Currently working across multiple business functions including Sales, Supply Chain, Quality, and Operations Analytics.
 
 ---
 
-## 🎯 Core Expertise
+## 💼 Professional Highlights
 
-* 📈 Sales Performance Analytics
-* 📦 Inventory Movement & Stock Analysis
-* ✅ Quality Performance Monitoring
-* 💰 Conversion Cost & Manufacturing Analytics
-* 📊 KPI & Executive Reporting
-* ⚙️ Business Process Automation
-* 📉 Data Visualization & Storytelling
+✔ Developed executive-level Power BI dashboards for business reporting
+
+✔ Built SQL-driven analytical solutions for Sales, Inventory, Quality, and Cost Analysis
+
+✔ Automated manual reporting processes using Power Query, DAX, and Excel
+
+✔ Experienced in KPI monitoring, trend analysis, variance analysis, and business performance tracking
+
+✔ Strong understanding of translating business requirements into analytical solutions
+
+---
+
+## 🎯 Analytics Domains
+
+📈 Sales Analytics
+
+📦 Inventory & Supply Chain Analytics
+
+✅ Quality Analytics
+
+💰 Manufacturing Cost Analytics
+
+📊 Business Performance Analytics
+
+📉 KPI & Executive Reporting
+
+🔍 Root Cause Analysis
+
+📋 Decision Support Analytics
+
+---
+
+## 🗄️ SQL Expertise
+
+Experienced in writing complex SQL queries for business reporting, data extraction, transformation, validation, and analysis.
+
+### Core SQL Skills
+
+* Joins & Multi-Table Analysis
+* Common Table Expressions (CTEs)
+* Window Functions
+* Aggregate & Analytical Functions
+* Subqueries
+* Data Cleaning & Validation
+* KPI Calculations
+* Query Optimization
+* Sales & Inventory Analysis
+* Business Reporting Queries
+
+### Databases
+
+* SQL Server
+* MySQL
+* PostgreSQL
 
 ---
 
@@ -33,10 +80,11 @@ I specialize in transforming raw business data into actionable insights through 
 * Power Query
 * KPI Dashboards
 * Executive Reporting
-* Dynamic Measures
 * Drill-through Navigation
+* Dynamic Measures
 * Report Performance Optimization
 * Row-Level Security (RLS)
+* Data Storytelling
 
 ---
 
@@ -44,98 +92,122 @@ I specialize in transforming raw business data into actionable insights through 
 
 | Category                  | Technologies                        |
 | :------------------------ | :---------------------------------- |
-| **Analytics & Reporting** | Power BI · Excel · SQL              |
-| **Programming**           | Python (Pandas, NumPy)              |
+| **Business Intelligence** | Power BI · Excel                    |
+| **Data Analysis**         | SQL · Python (Pandas, NumPy)        |
 | **Data Modeling**         | DAX · Power Query · Star Schema     |
 | **Databases**             | SQL Server · MySQL · PostgreSQL     |
 | **Data Processing**       | ETL Workflows · Data Transformation |
-| **Tools**                 | Git · VS Code                       |
+| **Version Control**       | Git · VS Code                       |
 | **AI & Automation**       | Prompt Engineering                  |
 
 ---
 
-# 📂 Featured Business Intelligence Projects
+# 📂 Featured Projects
 
 ## 📈 Executive Sales Analytics Dashboard
 
-Comprehensive sales performance dashboard developed for management reporting and business decision-making.
+Developed a management reporting solution to monitor sales performance and support strategic decision-making.
 
-### Key Insights
+### Key Features
 
 * Brand Performance Analysis
-* Category Contribution Analysis
+* Category Analysis
 * Size-wise Sales Analysis
-* YoY / MoM / YTD Growth Tracking
-* Sales Trend Monitoring
+* YoY / MoM / YTD Growth Analysis
+* Revenue Trend Monitoring
 * Executive KPI Reporting
 
-### Tools
-
-Power BI • DAX • SQL • Power Query
+**Tools:** Power BI • SQL • DAX • Power Query
 
 ---
 
 ## 📦 Inventory Movement Dashboard
 
-Business intelligence solution designed to monitor inventory health and stock movement across the organization.
+Built an inventory intelligence solution to improve stock visibility and inventory planning.
 
-### Key Insights
+### Key Features
 
-* Stock Movement Analysis
-* Inventory Aging Monitoring
+* Inventory Aging Analysis
+* Stock Movement Tracking
 * Fast & Slow Moving Items
 * Inventory Health KPIs
-* Stock Planning Support
+* Inventory Planning Support
 
-### Tools
-
-Power BI • SQL • Excel
+**Tools:** Power BI • SQL • Excel
 
 ---
 
 ## ✅ Quality Performance Dashboard
 
-Operational analytics dashboard focused on product quality monitoring and continuous improvement initiatives.
+Created an operational dashboard focused on quality monitoring and continuous improvement.
 
-### Key Insights
+### Key Features
 
 * Quality KPI Tracking
 * Defect Trend Analysis
 * Rejection Monitoring
 * Root Cause Analysis
-* Production Quality Performance
+* Process Performance Monitoring
 
-### Tools
-
-Power BI • SQL • Excel
+**Tools:** Power BI • SQL • Excel
 
 ---
 
 ## 💰 Conversion Cost Dashboard
 
-Manufacturing analytics dashboard built to monitor operational cost performance and efficiency.
+Designed a manufacturing analytics dashboard to monitor operational efficiency and cost performance.
 
-### Key Insights
+### Key Features
 
-* Conversion Cost Trends
-* Cost Component Analysis
-* Variance Monitoring
-* Efficiency Tracking
-* Manufacturing Performance Analysis
+* Cost Trend Analysis
+* Cost Component Breakdown
+* Variance Analysis
+* Efficiency Monitoring
+* Manufacturing Performance Analytics
 
-### Tools
+**Tools:** Power BI • SQL • DAX
 
-Power BI • DAX • SQL
+---
+
+## 🗄️ SQL Business Analytics Portfolio
+
+Collection of advanced SQL solutions and business case studies.
+
+### Topics Covered
+
+* Sales Analytics Queries
+* Inventory Analytics Queries
+* Window Functions
+* CTEs
+* Business KPI Calculations
+* Data Validation
+* Reporting Queries
+
+**Tools:** SQL Server • MySQL • PostgreSQL
+
+---
+
+## 📜 Certifications
+
+🏅 Microsoft Power BI Data Analyst Associate *(Add if certified)*
+
+🏅 SQL for Data Analysis
+
+🏅 Python for Data Science
+
+🏅 Data Analytics & Business Intelligence
+
+🏅 Microsoft Fabric Fundamentals *(Optional)*
 
 ---
 
 ## 🌱 Currently Learning
 
 * Advanced DAX Optimization
-* Power BI Performance Tuning
 * Microsoft Fabric
+* Analytics Engineering Concepts
 * AI-Powered Analytics
-* Business Storytelling
+* Data Storytelling & Executive Reporting
 
 ---
 
